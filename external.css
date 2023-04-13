@@ -63,6 +63,8 @@
     /* justify-content: flex-start; */
     align-content: space-between;
     /* margin: 0 0 0 0; */
+    justify-content: center;
+    width: 100%;
 }
 
 .to_top {
