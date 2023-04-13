@@ -77,6 +77,16 @@
 
 }
 
+.email {
+    display: flex;
+    flex-direction: column;
+    /* align-content: space-around; */
+    margin: 0 0 0 2rem;
+    /* width: 10rem; */
+    width: 30%;
+
+}
+
 .line {
     height: 1.0rem;
     /* background: #00989d; */
